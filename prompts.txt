@@ -30,10 +30,7 @@ How can I test JWT token failures and display proper messages on the frontend?
 
 How to verify that the number of records ingested matches source records using Java?
 
+My JWT authentication isn’t working with ClickHouse. Can you help debug the issue?
 
-✅ BONUS: Realistic prompt mistakes or edits
-"My JWT authentication isn’t working with ClickHouse. Can you help debug the issue?"
+The ingestion crashes when CSV columns don’t match ClickHouse schema. How to handle this gracefully?
 
-"The ingestion crashes when CSV columns don’t match ClickHouse schema. How to handle this gracefully?"
-
-"I tried your earlier approach but it didn’t work with large CSVs — can you optimize it for streaming instead of batch insert?"
