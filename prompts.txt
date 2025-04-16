@@ -1,1 +1,39 @@
-prompt
+What architecture would suit a bidirectional data ingestion tool between ClickHouse and Flat Files with JWT authentication?
+
+How should I design the database and service layer for ClickHouse data ingestion using Spring Boot?
+
+What are the potential challenges when ingesting CSV files into ClickHouse?
+
+How to connect to ClickHouse using Spring Boot with JWT token authentication?
+
+Can you help me build a Spring Boot service to fetch tables and column names from a ClickHouse DB?
+
+What is the best way to ingest CSV file data into ClickHouse using Java?
+
+How to implement a controller in Spring Boot that accepts a file upload and maps selected columns to a ClickHouse table?
+
+How can I generate a new table in ClickHouse dynamically using selected columns from a CSV file?
+
+How to perform a multi-table JOIN in ClickHouse from backend based on user-provided keys?
+
+How to build a source selection UI in React for ClickHouse and CSV file?
+
+Can you help me create a React component for dynamic column selection using checkboxes?
+
+How to send connection details and file uploads from React to Spring Boot backend?
+
+How to display data preview (first 100 records) of a CSV file or ClickHouse table in React?
+
+What unit tests should I write for Spring Boot ingestion services to ensure accuracy?
+
+How can I test JWT token failures and display proper messages on the frontend?
+
+How to verify that the number of records ingested matches source records using Java?
+
+
+✅ BONUS: Realistic prompt mistakes or edits
+"My JWT authentication isn’t working with ClickHouse. Can you help debug the issue?"
+
+"The ingestion crashes when CSV columns don’t match ClickHouse schema. How to handle this gracefully?"
+
+"I tried your earlier approach but it didn’t work with large CSVs — can you optimize it for streaming instead of batch insert?"
